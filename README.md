@@ -1,83 +1,55 @@
+# 김지환 : 발전 가능성이 무한한 개발자
 
-# 발전 가능성이 무한한 개발자
+![poster](./img.jpg)
+
+안녕하세요! 저는 김지환입니다. 데이터 엔지니어로 일하고 있으며, 최근에는 머신러닝과 딥러닝을 활용한 모델링에 많은 시간을 투자했습니다. 제 전문 분야는 데이터 전처리입니다.
+
+## 학력
+
+- 학사 - 백석대학교, 컴퓨터공학부, 2023년 졸업
+
+## 기술 스택
+
+- Python
+- Java
+- sklearn
+- HTML / css
+- Git
+
+## 경력
+
+### (주)에스케어
+
+- 보안솔루션엔지니어, 2022.11 - 2023.02
+- Symantec Endpoint, Protection 유지/보수
+- 정기점검
+- 기술지원
 
 
-## 소개(Introduction)
+## 프로젝트
 
-안녕하세요! 저는 [이름]입니다. [직무/전공/분야]를 전문으로 공부하고 일하고 있습니다. [자신에 대한 간단한 소개 또는 자기소개] 
+### 서울특별시 전기차/충전기 데이터 시각화
 
-## 연락처(Contact)
+- 팀 프로젝트, 2023
+- Numpy, Pandas를 이용한 데이터 시각 자료 제작
+- 지도, 그래프 등으로 구현
 
-- 이메일: [이메일 주소]
-- 블로그: [블로그 주소]
-- 깃허브: [깃허브 주소]
+### 퇴사자 예측 웹사이트
 
-## 보유 기술(Skills)
+- 팀 프로젝트, 2023
+- 머신러닝을 이용한 웹 애플리케이션 제작
+- 직장인의 집과의 거리, 연봉 등으로 퇴사 예측
 
-- [기술/언어/도구/프레임워크 등] 
-- [기술/언어/도구/프레임워크 등]
-- [기술/언어/도구/프레임워크 등]
-- [기술/언어/도구/프레임워크 등]
-- [기술/언어/도구/프레임워크 등]
+## 수상 경력
 
-## 프로젝트(Projects)
+- “Great Invention Contest Challenge” 2020 IIBC Start-up Invention Contest 장려상, 2020
 
-### [프로젝트 이름]
+- 2022년 한국사물인터넷학회 종합학술대회 우수논문상, 2022
 
-- [프로젝트 설명]
-- [프로젝트에 사용된 기술/언어/도구/프레임워크 등]
-- [프로젝트 결과물/링크 등]
+- Smart IT 창작물 경진대회 은상, 2022
 
-### [프로젝트 이름]
+## 연락처
 
-- [프로젝트 설명]
-- [프로젝트에 사용된 기술/언어/도구/프레임워크 등]
-- [프로젝트 결과물/링크 등]
-
-## 교육(Education)
-
-### [학위/자격증 등]
-
-- [학교/기관/센터명]
-- [취득일자]
-- [상세 내용]
-
-### [학위/자격증 등]
-
-- [학교/기관/센터명]
-- [취득일자]
-- [상세 내용]
-
-## 활동(Activity)
-
-### [활동명]
-
-- [활동 내용]
-- [활동 결과물/링크 등]
-
-### [활동명]
-
-- [활동 내용]
-- [활동 결과물/링크 등]
-
-## 수상 경력(Awards)
-
-### [수상명]
-
-- [상세 내용]
-
-### [수상명]
-
-- [상세 내용]
-
-## 참여 그룹/커뮤니티(Participation)
-
-- [그룹/커뮤니티명]
-- [그룹/커뮤니티명]
-
----
-
-## 뱃지(Badges)
-
-[![GitHub followers](https://img.shields.io/github/followers/[GitHub 사용자명]?style=social)](https://github.com/[GitHub 사용자명])
-[![GitHub stars](https://img.shields.io
+- 이메일: kimji21758@gmail.com
+- 블로그: [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/honggildong)](https://github.com/honggildong)
+- 깃허브: [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/honggildong)](https://github.com/zihvvan)
